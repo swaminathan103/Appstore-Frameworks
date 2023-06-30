@@ -18,6 +18,6 @@ This is an iOS app built using SwiftUI that displays the Apple Appstore framewor
 ## Screenshots
 
 <p float="left">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250206322-588985ac-5013-47a1-a13b-0d84a5f0252e.png" width="450" height="377" />
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250206125-3c113ec8-09fa-4d74-8625-4e5c672c1a4a.png" width="450" height="377" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250206322-588985ac-5013-47a1-a13b-0d84a5f0252e.png" width="550" height="461" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/250206125-3c113ec8-09fa-4d74-8625-4e5c672c1a4a.png" width="550" height="461" />
 </p>
